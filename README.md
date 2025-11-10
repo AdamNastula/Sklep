@@ -9,3 +9,5 @@ Backend został napisany w C# w oparciu o platformę .Net w wersji 9.0.
 Aplikacja wykorzystuje Ovh Cloud Storage to przechowywania zdjęć. Zdjęcia sa pobierane bezpośrednio z serwerów Ovh poprzez podpisane przez BE linki.
 
 W oparciu o gmail działa system powiadomień mailowych o statusie zamówienia.
+
+Prezentacja projektu: https://drive.google.com/drive/folders/17CcAX_VbZECDMvs6ECYoqQ84GjjPfBYW?usp=drive_link
