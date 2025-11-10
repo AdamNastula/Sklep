@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+
+.max-w-screen-3xl {
+    max-width: 1920;
+}
+
+.bg-main-color {
+    background-color: #eeeeee;
+}
+
+.bg-footer {
+    background-color: #393e46;
+}

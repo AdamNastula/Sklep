@@ -1,0 +1,6 @@
+@JInshanBodyShopApi_HostAddress = http://localhost:5225
+
+GET {{JInshanBodyShopApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
